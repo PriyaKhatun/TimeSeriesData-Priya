@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.3
+requests==2.26.0
+
+'beautifulsoup4' and 'requests' libraries required to run code successfully. 
+To include this file in our project directory to help others easily install the necessary dependencies using the 'pip' command.
